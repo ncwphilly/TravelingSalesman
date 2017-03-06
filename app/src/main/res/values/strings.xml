@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Traveling Salesman</string>
+    <string name="play">Play</string>
+    <string name="choose_the_number_of_locations">Choose the number of locations:</string>
+    <string name="hello">Hello!</string>
+    <string name="menu_settings" />
+    <string name="one_string" />
+    <string name="two_string" />
+    <string name="three_string" />
+    <string name="four_string" />
+    <string name="undo">Undo</string>
+    <string name="clear">Clear</string>
+</resources>
